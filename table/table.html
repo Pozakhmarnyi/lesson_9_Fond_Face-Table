@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #grid {
+            height: 100vh;
+            width: 100vw;
+            display: grid;
+
+            grid-template-rows: 1fr 1fr 1fr;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-gap: 2vw;
+        }
+
+        #grid>div {
+            font-size: 5vw;
+            padding: .5em;
+            background: gold;
+            text-align: center;
+        }
+
+        #ins {
+
+
+            display: subgrid;
+            grid-template-rows: 1fr 1fr;
+            grid-template-columns: 1fr 1fr;
+
+        }
+
+        #ins>div {
+            border: 2px solid red;
+            ;
+            font-size: 1vw;
+            padding: .5em;
+            background: rgb(107, 243, 66);
+            text-align: center;
+            grid-gap: 2vw;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="grid">
+        <div>1</div>
+        <div id="ins">
+            2
+
+
+        </div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+        <div>7</div>
+        <div>8</div>
+        <div>9</div>
+        <div>a</div>
+        <div>b</div>
+        <div>c</div>
+
+    </div>
+</body>
+
+</html>

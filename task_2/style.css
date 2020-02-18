@@ -1,0 +1,132 @@
+* {    background: #414a4f;
+margin: 0;
+}
+
+
+
+.main {width: 1060px;
+    height: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-top: 149px;
+    background: #ffffff;
+    box-sizing: border-box;
+    position: relative;
+}
+
+#greyline {
+    float:left;
+    margin-left: 67px;
+    margin-right: 54px;
+    width: 2px;
+    height: 100%;
+    background: #e8eced;}
+
+.text {background: #ffffff;}
+.text > p{background: #ffffff;}
+
+
+    .Roy_Batty__2019 {
+        padding-top: 204px;
+        font-size: 19.84px;
+        font-family: "ProximaNova";
+        color: rgb(180, 180, 180);
+        text-transform: uppercase;
+        line-height: 1.2;
+        text-align: left;
+        letter-spacing: 4.3px;
+        
+      }
+
+      .Like_Tears_in_Rain {
+        font-size: 77.93px;
+        font-family: "FuturaPT";
+        color: rgb(42, 42, 42);
+        text-transform: uppercase;
+        line-height: 0.943;
+        text-align: left;
+        letter-spacing: 4.3px;
+        margin: 27px 0 0 0;
+        
+      }
+      .Where {
+        font-size: 30px;
+        font-family: "Georgia";
+        color: rgb(143, 143, 143);
+        font-style: italic;
+        line-height: 2.081;
+        margin-top: 0px;
+         }
+
+        .I_ve_seen{font-weight: 500;
+            margin-right: 130px;
+            font-size: 26.92px;
+            font-family: "Georgia";
+            color: rgb(0, 0, 0);
+            line-height: 1.5;
+            text-align: justify;
+          }
+          
+          .I_don_t{
+            margin-right: 130px;
+            font-size: 26.92px;
+            font-family: "Georgia";
+            color: rgb(0, 0, 0);
+            line-height: 1.5;
+            text-align: justify;
+          }
+          i {background: white;}
+
+
+.Bbox {
+    width: 820px;
+    height: 187px;
+    background: #181818;
+    padding-left: 60px;
+
+    position: absolute;
+    left: 255px;
+    top: -90px;
+}
+
+.Ybox {
+    width: 812px;
+    height: 76px;
+    background: #f6bc2c;
+    position: absolute;
+    left: 323px;
+    top: 97px;
+  
+    
+    
+}
+
+.yel{background: #f6bc2c;
+margin-left: 43px;
+margin-top: 22px;}
+
+.TITLE {
+  font-size: 15px;
+  font-family: "ProximaNova";
+  color: rgb(118, 118, 118);
+  text-transform: uppercase;
+  line-height: 1;
+  background: #181818;
+  letter-spacing: 4.3px;
+padding-top: 49px;}
+
+.Like_Tears_In_Ra {
+font-size: 48px;
+color: rgb(254, 254, 254);
+line-height: 1;
+background: #181818;
+font-family: 'Playfair Display', serif;
+margin: 0;}
+  
+.g {background: #afb1b3;}
+
+.HgrL {background: #303030;
+  height: 3px;
+  width: 100%;
+margin-top: 18px;}

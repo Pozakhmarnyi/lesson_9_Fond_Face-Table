@@ -1,0 +1,30 @@
+* {
+    font-family: "Caveat", cursive;
+    font-size: 18pt;
+}
+
+.poetry {
+    display: block;
+    font-family: A
+    background-color: rgb(244, 247, 119);
+    padding: 5mm;
+    padding-left: 20mm;
+    line-height: 0.8;
+}
+
+.card {
+    display: block;
+    width: 50%;
+    background-color: rgb(172, 222, 252);
+    margin: 6mm;
+    padding: 5mm;
+    line-height: 0.8;
+    border-radius: 2mm;
+}
+
+.card-topic {
+    font-size: 2em;
+    background-color: aqua;
+    text-shadow: 2px 2px 4px gray;
+    font-weight: bold;
+}
